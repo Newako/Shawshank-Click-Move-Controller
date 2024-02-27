@@ -91,7 +91,7 @@ MonoBehaviour:
   clickEffect: {fileID: 0}
   clickableLayers:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 0
 --- !u!195 &2345573116171753091
 NavMeshAgent:
   m_ObjectHideFlags: 0
